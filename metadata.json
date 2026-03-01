@@ -1,0 +1,7 @@
+{
+  "name": "GestureFlux 3D",
+  "description": "A high-performance interactive 3D particle system controlled by real-time hand gestures. Use your hands to scale, expand, and move cosmic structures including hearts, flowers, Saturn, and fireworks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
