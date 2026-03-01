@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-insights/gestureflux-3d/blob/65387a8b42c5ee7d0c5500d0d8f7ce51ecbb621b/GestureFlux%203D.png)
 # GestureFlux 3D: Turn gestures into motion
 
 GestureFlux 3D is a high-performance, real-time interactive 3D particle system controlled entirely by hand gestures through your webcam. Built with **React**, **Three.js (@react-three/fiber)**, and **Google MediaPipe**, it creates an immersive experience where you "weave" light and sound.
